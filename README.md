@@ -64,9 +64,8 @@ print("Predicted value:", prediction)
 ## Output:
 ![linear regression using gradient descent](sam.png)
 <img width="1920" height="1080" alt="Screenshot (618)" src="https://github.com/user-attachments/assets/2feb71e9-687f-4d4b-89e4-92315b7f32c6" />
-<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/fae9c1b1-9660-4d60-88e9-1f59dca849c2" />
 <img width="1920" height="1080" alt="Screenshot (617)" src="https://github.com/user-attachments/assets/7226441f-18b2-4572-a4c6-1469102945f8" />
-
+<img width="1920" height="1080" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/fae9c1b1-9660-4d60-88e9-1f59dca849c2" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
